@@ -16,13 +16,24 @@ Theory, Recommendation Engines, Time Series Forecasting, Business Intelligence D
 
 thesasmom@gmail.com   
 
+## Educational Background   
+Master of Science - Data Science and Analytics, Toronto Metropolitan University (formerly Ryerson University)   
+
+Master of Management Analytics (MMA), Smith School of Business, Queen's University   
+
+Hon. B.Sc. Degree (Major: Computer Science and Statistics), University of Toronto
+
+
 ## 🔭 Featured Projects   
 [Machine Learning - Classification and Regression code](https://github.com/Vanaudel/Machine-Learning---Classification-and-Regression)   
 [Machine Learning - Advanced Optimization Algorithms](https://github.com/Vanaudel/Machine-Learning----Algorithms)   
 [Machine Learning - Advanced Visualizations](https://github.com/Vanaudel/Machine-Learning---Advanced-Visualizations)    
 [Machine Learning - Recommendation Engines](https://github.com/Vanaudel/Machine-Learning---Recommendation-Engines)  
 [Toronto Metropolitan University MSc. Data Science and Analytics - Major Research Project](https://github.com/Vanaudel/TMU-Major-Research-Project)   
-   
+
+
+## 🛠️ Tech Stack     
+
 ---   
 
 
