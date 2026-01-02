@@ -32,7 +32,23 @@ Hon. B.Sc. Degree (Major: Computer Science and Statistics), University of Toront
 [Toronto Metropolitan University MSc. Data Science and Analytics - Major Research Project](https://github.com/Vanaudel/TMU-Major-Research-Project)   
 
 
-## 🛠️ Tech Stack     
+## 🛠️ Tech Stack   
+
+
+**Programming Languages:** Python, SAS, R, SQL, Pyspark   
+
+**Libraries:** Pandas, Pyspark, Matplotlib, Seaborn, Numpy, Json, Datetime, Wordcloud, Fuzzywuzzy, NetworkX, Graphviz, Pydot, Folium, GeoPandas, GeoJSON   
+
+**Machine Learning:** Tensorflow, Keras, Scikit-Learn, NLTK, Gensim, SVM, Ensembles, Decision Trees, Random Forest, XGBoost, KMeans, Naive Bayes, Classifiers, Regressors   
+
+**Environments:** Google Cloud (Vertex AI, BigQuery, Cloud Storage, DataProc), GitLab, Teradata Studio, R Studio, Microsoft Azure, SAS Enterprise Guide 4.3 on SAS v9.3   
+
+**Project Management Tools:** Jira, Confluence   
+
+**Advanced Visualization:** Tableau, Power BI, Looker Studio, Matplotlib, Seaborn   
+
+**SAS Tools:** Base, SQL, Macro, STAT   
+
 
 ---   
 
