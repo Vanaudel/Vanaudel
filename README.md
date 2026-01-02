@@ -35,13 +35,13 @@ Hon. B.Sc. Degree (Major: Computer Science and Statistics), University of Toront
 ## 🛠️ Tech Stack   
 
 
-**Programming Languages:** Python, SAS, R, SQL, Pyspark   
+**Programming Languages:** Python, SQL, R, Pyspark, SAS   
 
 **Python Libraries:** Pandas, Pyspark, Matplotlib, Seaborn, Numpy, Json, Datetime, Wordcloud, Fuzzywuzzy, NetworkX, Graphviz, Pydot, Folium, GeoPandas, GeoJSON   
 
 **Machine Learning:** Scikit-Learn, NLTK, Gensim, SVM, Ensembles, Decision Trees, Random Forest, XGBoost, KMeans, Naive Bayes, Classifiers, Regressors, Tensorflow, Keras   
 
-**Environments:** Google Cloud (Vertex AI, BigQuery, Cloud Storage, DataProc), GitLab, Teradata Studio, R Studio, Microsoft Azure, SAS Enterprise Guide 4.3 on SAS v9.3   
+**Environments:** Google Cloud (Vertex AI, BigQuery, Cloud Storage, DataProc), GitLab, R Studio, Microsoft Azure, SAS Enterprise Guide 4.3 on SAS v9.3   
 
 **Project Management Tools:** Jira, Confluence   
 
