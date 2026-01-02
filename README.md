@@ -37,9 +37,9 @@ Hon. B.Sc. Degree (Major: Computer Science and Statistics), University of Toront
 
 **Programming Languages:** Python, SAS, R, SQL, Pyspark   
 
-**Libraries:** Pandas, Pyspark, Matplotlib, Seaborn, Numpy, Json, Datetime, Wordcloud, Fuzzywuzzy, NetworkX, Graphviz, Pydot, Folium, GeoPandas, GeoJSON   
+**Python Libraries:** Pandas, Pyspark, Matplotlib, Seaborn, Numpy, Json, Datetime, Wordcloud, Fuzzywuzzy, NetworkX, Graphviz, Pydot, Folium, GeoPandas, GeoJSON   
 
-**Machine Learning:** Tensorflow, Keras, Scikit-Learn, NLTK, Gensim, SVM, Ensembles, Decision Trees, Random Forest, XGBoost, KMeans, Naive Bayes, Classifiers, Regressors   
+**Machine Learning:** Scikit-Learn, NLTK, Gensim, SVM, Ensembles, Decision Trees, Random Forest, XGBoost, KMeans, Naive Bayes, Classifiers, Regressors, Tensorflow, Keras   
 
 **Environments:** Google Cloud (Vertex AI, BigQuery, Cloud Storage, DataProc), GitLab, Teradata Studio, R Studio, Microsoft Azure, SAS Enterprise Guide 4.3 on SAS v9.3   
 
