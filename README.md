@@ -11,12 +11,12 @@ GCP, Azure, and IBM Watson.
   ● Exposure to a wide array of machine learning concepts including Predictive Modeling, Customer Segmentation, NLP, Graph
 Theory, Recommendation Engines, Time Series Forecasting, Business Intelligence Dashboards and Data Engineering.
 
+***   
+
 ## 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/vanessaafolabithesasmom/)   
 
 thesasmom@gmail.com      
-
-[Resume](C:/Users/VanessaDownloads/Resume - Data Science and Analytics Lead.pdf)
 
 ## Educational Background   
 Master of Science - Data Science and Analytics, Toronto Metropolitan University (formerly Ryerson University)   
