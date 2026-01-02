@@ -16,7 +16,7 @@ Theory, Recommendation Engines, Time Series Forecasting, Business Intelligence D
 
 thesasmom@gmail.com      
 
-![Resume](C:\Users\Vanessa\Downloads\Resume - Data Science and Analytics Lead.pdf)
+[Resume](C:\Users\Vanessa\Downloads\Resume - Data Science and Analytics Lead.pdf)
 
 ## Educational Background   
 Master of Science - Data Science and Analytics, Toronto Metropolitan University (formerly Ryerson University)   
