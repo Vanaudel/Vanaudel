@@ -18,6 +18,9 @@ Theory, Recommendation Engines, Time Series Forecasting, Business Intelligence D
 
 thesasmom@gmail.com   
 
+[SAS Certifications](https://github.com/VanessaAfolabi/SAS-Certifications)   
+
+
 ***   
 
 
